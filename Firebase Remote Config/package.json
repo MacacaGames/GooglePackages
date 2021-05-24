@@ -17,7 +17,6 @@
   },
   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
   "unity": "2017.1",
-  "dependencies": {
-    "com.google.firebase.app": "7.2.0"
-  }
+  "dependencies": {}
+
 }

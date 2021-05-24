@@ -15,7 +15,6 @@
   },
   "description": "You can use Instance ID to test Firebase A/B Testing or provide a unique identifier for each app instance and a mechanism to authenticate and authorize actions like sending a message via Cloud Messaging.",
   "unity": "2017.1",
-  "dependencies": {
-    "com.google.firebase.app": "7.2.0"
-  }
+  "dependencies": {}
+
 }
