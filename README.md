@@ -13,7 +13,7 @@ This repository replicates the licence terms of his original distribution locati
 
 See [Here](https://developers.google.com/unity/archive) to understand which package's dependencies eachother
 
-Add followo item in your manifest.json
+### Add follow item in your manifest.json
 
 ```json
 // To add External Dependency Manager: 
@@ -84,6 +84,24 @@ Add followo item in your manifest.json
 // To add Google Analytics for Firebase: 
 {
     "com.macacagames.firebase.analytics": "https://github.com/MacacaGames/GooglePackages.git?path=/Google Analytics for Firebase"
+}
+
+```
+
+# To specified a version
+
+### Note: This repository will only delivery version release after 7.2.0, if the official SDK is updated to a new version, please make a issue, I will update this repository
+
+You can specified a version by add a tag hash in the end of the url.
+For example to specified version 7.2.0, you can modify the url like this.
+
+Version code is based on Firebase SDK version.
+
+
+```json
+// To add Google Analytics for Firebase: 
+{
+    "com.macacagames.firebase.analytics": "https://github.com/MacacaGames/GooglePackages.git?path=/Google Analytics for Firebase#7.2.0"
 }
 
 ```
