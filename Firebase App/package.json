@@ -1,7 +1,7 @@
 {
-  "name": "com.google.firebase.app",
+  "name": "com.macacagames.firebase.app",
   "version": "7.2.0",
-  "displayName": "Firebase App (Core)",
+  "displayName": "Firebase App (Core) (MacacaGames Modified)",
   "keywords": [
     "Google",
     "Firebase",
@@ -12,7 +12,7 @@
     "name": "Google LLC",
     "url": "https://firebase.google.com/docs/unity/setup"
   },
-  "description": "Firebase App is the core library every Firebase package depends on.",
+  "description": "Firebase App is the core library every Firebase package depends on.(MacacaGames Modified)",
   "unity": "2017.1",
   "dependencies": {
     "com.google.external-dependency-manager": "1.2.165"
