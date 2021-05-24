@@ -6,7 +6,12 @@ Also to avoid confused with official version SDK package, the package name is al
 
 This repository replicates the licence terms of his original distribution location. For more information check https://firebase.google.com/terms and https://firebase.google.com/support/release-notes/unity
 
+
 # Usage
+ 
+## Important : Since UPM didn't support dependencies resolve with git package. Manually manage the dependencies is required!!!
+
+See [Here](https://developers.google.com/unity/archive) to understand which package's dependencies eachother
 
 Add followo item in your manifest.json
 
